@@ -1,0 +1,119 @@
+body {
+  font-family: "Roboto";
+}
+
+/* navbar */
+.navbar {
+  background-color: #141414 !important;
+  /* height: 100px; */
+  border-bottom: 1px solid #3d3d3c;
+}
+
+.navbar .navbar-brand {
+  font-family: "Reem Kufi";
+  font-size: 40px;
+}
+
+.navbar ul li a {
+  color: white !important;
+  font-weight: 300;
+}
+
+.navbar ul li .active {
+  color: #f4be2d !important;
+  font-weight: 700;
+}
+
+.navbar ul li a:hover {
+  color: #f4be2d !important;
+  font-weight: 700;
+}
+
+.navbar .dropdown-menu {
+  font-size: 15px;
+}
+
+.navbar .dropdown-menu a:hover {
+  background-color: transparent;
+}
+/* akhir navbar */
+
+/* slider */
+.slider {
+  margin-top: 87px;
+}
+/* akhir slider */
+
+/* title-items */
+.title-items {
+  background-color: #141414;
+}
+
+.title-items h3 {
+  font-family: "Righteous";
+  font-size: 25px;
+  color: white;
+  padding: 45px;
+}
+/* akhir title-items */
+
+/* items */
+.items {
+  background-color: #141414;
+  height: 400px;
+}
+
+.items .carousel figcaption p {
+  text-align: center;
+  text-transform: uppercase;
+  color: white;
+  font-weight: 300;
+  font-size: 18px;
+  margin-top: 27px;
+}
+/* akhir items */
+
+/* res-items */
+.res-items {
+  display: none;
+  background-color: #141414;
+}
+
+.res-items figcaption p {
+  text-align: center;
+  text-transform: uppercase;
+  color: white;
+  font-size: 15px;
+  font-weight: 300;
+  margin-top: 20px;
+}
+/* akhir res-items */
+
+/* footer */
+footer {
+  background-color: #141414;
+  color: white;
+  padding-top: 65px;
+  padding-bottom: 63px;
+  border-top: 1px solid #3d3d3c;
+}
+
+footer a {
+  text-decoration: none;
+}
+
+footer h5 {
+  font-family: "Reem Kufi";
+  font-size: 25px;
+  color: white;
+}
+
+footer p {
+  font-weight: 300;
+}
+
+footer p span:hover {
+  color: #f4be2d;
+  cursor: pointer;
+}
+/* akhir footer */
