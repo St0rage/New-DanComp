@@ -18,7 +18,6 @@ function itemBreakPoint(x) {
     let newItem = '';
     const itm = $('.items');
     const resItm = $('.res-items');
-    const title = $('.title-items');
 
     arr.forEach(n => {
         newItem += resItems(n);
