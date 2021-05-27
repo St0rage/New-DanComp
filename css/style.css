@@ -67,7 +67,7 @@ body {
   text-align: center;
   text-transform: uppercase;
   color: white;
-  font-weight: 300;
+  font-weight: 500;
   font-size: 18px;
   margin-top: 27px;
 }
@@ -83,8 +83,8 @@ body {
   text-align: center;
   text-transform: uppercase;
   color: white;
-  font-size: 15px;
-  font-weight: 300;
+  font-size: 18px;
+  font-weight: 500;
   margin-top: 20px;
 }
 /* akhir res-items */
@@ -117,3 +117,36 @@ footer p span:hover {
   cursor: pointer;
 }
 /* akhir footer */
+
+/* CONTACT PAGE */
+.contact {
+  background-color: #141414;
+  margin-top: 87px;
+  color: white;
+  padding-top: 50px;
+  padding-bottom: 70px;
+}
+
+.contact h3 {
+  margin-bottom: 40px;
+  font-family: "Righteous";
+  font-size: 35px;
+}
+
+.contact .form-group {
+  margin-bottom: 30px;
+}
+
+.contact .form-group:nth-child(4) {
+  margin-bottom: 60px;
+}
+
+.contact form button {
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.contact form {
+  font-size: 20px;
+  font-weight: 300;
+}
