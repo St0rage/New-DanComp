@@ -150,3 +150,50 @@ footer p span:hover {
   font-size: 20px;
   font-weight: 300;
 }
+
+/* PRODUCT PAGE */
+.bread-crumb {
+  margin-top: 87px;
+  background-color: #141414;
+  font-size: 18px;
+  font-weight: 300;
+  padding-top: 25px;
+  padding-bottom: 24px;
+}
+
+.bread-crumb .breadcrumb a {
+  text-decoration: none;
+  color: #f4be2d;
+}
+
+.bread-crumb .breadcrumb li {
+  color: white;
+}
+
+.banner {
+  background-color: #141414;
+  padding-bottom: 50px;
+}
+
+.banner .jumbo {
+  background-image: url("../img/banner/processor.jpg");
+  background-size: cover;
+  background-position-y: center;
+  height: 300px;
+}
+
+.products {
+  background-color: #141414;
+  color: white;
+  height: 1000px;
+}
+
+.products h3 {
+  font-family: "Righteous";
+  font-size: 30px;
+}
+
+.products .accordion button {
+  color: white !important;
+  border-bottom: 1px solid #ded5d5;
+}
