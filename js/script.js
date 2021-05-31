@@ -47,7 +47,7 @@ x.addListener(itemBreakPoint);
 function resItems(n) {
     return `<div class="col-6 offset-3">
                 <figure class="figure">
-                    <a href="">
+                    <a href="${n}.html">
                     <img src="img/items/xd/${n}.png" class="figure-img img-fluid">
                     </a>
                     <figcaption class="figure-caption">

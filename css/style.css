@@ -144,6 +144,7 @@ footer p span:hover {
 .contact form button {
   font-weight: 500;
   font-size: 20px;
+  background-color: #354ef5 !important;
 }
 
 .contact form {
@@ -185,7 +186,7 @@ footer p span:hover {
 .products {
   background-color: #141414;
   color: white;
-  height: 1000px;
+  padding-bottom: 100px;
 }
 
 .products h3 {
@@ -196,4 +197,71 @@ footer p span:hover {
 .products .accordion button {
   color: white !important;
   border-bottom: 1px solid #ded5d5;
+}
+
+.sidebar-right .card {
+  width: 168px;
+  margin-bottom: 30px;
+}
+
+.sidebar-right .card h5 {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.sidebar-right .card button {
+  margin-top: 5px;
+  font-size: 14px;
+  font-weight: 500;
+  background-color: #354ef5 !important;
+}
+
+.modal .modal-content {
+  background-color: #141414 !important;
+  color: white;
+  box-shadow: 1px 1px 3px rgba(255, 255, 255, 0.1),
+    -1px -1px 3px rgba(255, 255, 255, 0.2);
+}
+
+.modal .modal-header h5 {
+  font-weight: 500;
+  font-size: 25px;
+}
+
+.modal .modal-content button {
+  background-color: #f4be2d;
+  color: #141414;
+  font-weight: 500;
+}
+
+.modal .modal-body a {
+  text-decoration: none;
+}
+
+.modal .modal-body .market-place h5 {
+  font-size: 20px;
+  font-family: "Righteous";
+}
+
+.modal .modal-body .product-specs {
+  height: 400px;
+  overflow-y: scroll;
+}
+
+.modal .modal-body .product-specs h5 {
+  color: white;
+  font-size: 25px;
+  font-family: "Righteous";
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.modal .modal-body .product-specs ul li {
+  background-color: transparent;
+  color: white;
+  border: none;
+  border-top: 1px solid #3d3d3c;
+  border-bottom: 1px solid #3d3d3c;
+  font-weight: 700;
+  font-size: 15px;
 }
