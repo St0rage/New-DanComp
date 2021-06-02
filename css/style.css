@@ -177,7 +177,7 @@ footer p span:hover {
 }
 
 .banner .jumbo {
-  background-image: url("../img/banner/processor.jpg");
+  /* background-image: url("../img/banner/processor.jpg"); */
   background-size: cover;
   background-position-y: center;
   height: 300px;
