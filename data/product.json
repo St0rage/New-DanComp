@@ -1,0 +1,305 @@
+{
+	"processor": [
+		{
+			"id" : "proc01",
+			"jenis" : "amd",
+			"tipe" : "ryzen-series",
+			"nama" : "AMD Ryzen 3 3100",
+			"gambar" : "processor/amd-ryzen-3-3100.png"
+		},
+		{
+			"id" : "proc02",
+			"jenis" : "amd",
+			"tipe" : "ryzen-series",
+			"nama" : "AMD Ryzen 5 3600",
+			"gambar" : "processor/amd-ryzen-5-3600.png"
+		},
+		{
+			"id" : "proc03",
+			"jenis" : "amd",
+			"tipe" : "ryzen-series",
+			"nama" : "AMD Ryzen 7 3700x",
+			"gambar" : "processor/amd-ryzen-7-3700x.png"
+		},
+		{
+			"id" : "proc04",
+			"jenis" : "amd",
+			"tipe" : "ryzen-series",
+			"nama" : "AMD Ryzen 9 3900x",
+			"gambar" : "processor/amd-ryzen-9-3900x.png"
+		},
+		{
+			"id" : "proc05",
+			"jenis" : "intel",
+			"tipe" : "core-series",
+			"nama" : "Intel Core I3 10100",
+			"gambar" : "processor/intel-core-i3-10100.png"
+		},
+		{
+			"id" : "proc06",
+			"jenis" : "intel",
+			"tipe" : "core-series",
+			"nama" : "Intel Core I5 10400",
+			"gambar" : "processor/intel-core-i5-10400.png"
+		},
+		{
+			"id" : "proc07",
+			"jenis" : "intel",
+			"tipe" : "core-series",
+			"nama" : "Intel Core I7 10700",
+			"gambar" : "processor/intel-core-i7-10700.png"
+		},
+		{
+			"id" : "proc08",
+			"jenis" : "intel",
+			"tipe" : "core-series",
+			"nama" : "Intel Core I9 10900",
+			"gambar" : "processor/intel-core-i9-10900.png"
+		}
+	],
+
+	"motherboard" : [
+		{
+			"id" : "mb01",
+			"jenis" : "amd",
+			"tipe" : "b550",
+			"nama" : "B550 AORUS MASTER",
+			"gambar" : "motherboard/b550-aorus-master.png"
+		},
+		{
+			"id" : "mb02",
+			"jenis" : "amd",
+			"tipe" : "b550",
+			"nama" : "B550 Steel Legend",
+			"gambar" : "motherboard/b550-steel-legend.png"
+		},
+		{
+			"id" : "mb03",
+			"jenis" : "amd",
+			"tipe" : "b550",
+			"nama" : "MSI B550-A PRO",
+			"gambar" : "motherboard/msi-b550-a-pro.png"
+		},
+		{
+			"id" : "mb04",
+			"jenis" : "amd",
+			"tipe" : "b550",
+			"nama" : "TUF GAMING B550-PLUS",
+			"gambar" : "motherboard/tuf-gaming-b550-plus.png"
+		},
+		{
+			"id" : "mb05",
+			"jenis" : "intel",
+			"tipe" : "b460",
+			"nama" : "B460 AORUS PRO AC",
+			"gambar" : "motherboard/b460-aorus-pro-ac.png"
+		},
+		{
+			"id" : "mb06",
+			"jenis" : "intel",
+			"tipe" : "b460",
+			"nama" : "B460 Steel Legend",
+			"gambar" : "motherboard/b460-steel-legend.png"
+		},
+		{
+			"id" : "mb07",
+			"jenis" : "intel",
+			"tipe" : "b460",
+			"nama" : "MAG B460 TOMAHAWK",
+			"gambar" : "motherboard/mag-b460-tomahawk.png"
+		},
+		{
+			"id" : "mb08",
+			"jenis" : "intel",
+			"tipe" : "b460",
+			"nama" : "TUF GAMING B460-PLUS",
+			"gambar" : "motherboard/tuf-gaming-b460-plus.png"
+		}
+	],
+
+	"graphic-card" : [
+		{
+			"id" : "gc01",
+			"jenis" : "nvidia",
+			"tipe" : "rtx-30-series",
+			"nama" : "AORUS GeForce RTX 3060 Ti MASTER 8G",
+			"gambar" : "graphic-card/aorus-geforce-rtx-3060-ti-master-8g.png"
+		},
+		{
+			"id" : "gc02",
+			"jenis" : "nvidia",
+			"tipe" : "rtx-30-series",
+			"nama" : "GeForce RTX 3090 SUPRIM X 24G",
+			"gambar" : "graphic-card/geforce-rtx-3090-suprim-x-24g.png"
+		},
+		{
+			"id" : "gc03",
+			"jenis" : "nvidia",
+			"tipe" : "rtx-30-series",
+			"nama" : "KO-RTX3070-O8G-GAMING",
+			"gambar" : "graphic-card/ko-rtx3070-o8g-gaming.png"
+		},
+		{
+			"id" : "gc04",
+			"jenis" : "nvidia",
+			"tipe" : "rtx-30-series",
+			"nama" : "ROG-STRIX-RTX3080-O10-GAMING",
+			"gambar" : "graphic-card/rog-strix-rtx3080-o10-gaming.png"
+		},
+		{
+			"id" : "gc05",
+			"jenis" : "radeon",
+			"tipe" : "rx-6000-series",
+			"nama" : "Radeon RX 6700 XT EAGLE 12G",
+			"gambar" : "graphic-card/radeon-rx-6700-xt-eagle-12g.png"
+		},
+		{
+			"id" : "gc06",
+			"jenis" : "radeon",
+			"tipe" : "rx-6000-series",
+			"nama" : "Radeon RX 6800 GAMING OC 16G",
+			"gambar" : "graphic-card/radeon-rx-6800-gaming-oc-16g.png"
+		},
+		{
+			"id" : "gc07",
+			"jenis" : "radeon",
+			"tipe" : "rx-6000-series",
+			"nama" : "TUF-RX6800XT-O16G-GAMING",
+			"gambar" : "graphic-card/tuf-rx6800xt-o16g-gaming.png"
+		},
+		{
+			"id" : "gc08",
+			"jenis" : "radeon",
+			"tipe" : "rx-6000-series",
+			"nama" : "TUF-RX6900XT-O16G-GAMING",
+			"gambar" : "graphic-card/tuf-rx6900xt-o16g-gaming.png"
+		}
+	],
+
+	"memory" : [
+		{
+			"id" : "mm01",
+			"tipe" : "ddr4",
+			"nama" : "HyperX Predator RGB DDR4-3600MHz 16GB (2x8GB)",
+			"gambar" : "memory/hyperx-predator-rgb-ddr4-3600mhz-16gb-(2x8gb).png"
+		},
+		{
+			"id" : "mm02",
+			"tipe" : "ddr4",
+			"nama" : "TOUGHRAM RGB DDR4-3600MHz 16GB (2x8GB)",
+			"gambar" : "memory/toughram-rgb-ddr4-3600mhz-16gb-(2x8gb).png"
+		},
+		{
+			"id" : "mm03",
+			"tipe" : "ddr4",
+			"nama" : "Trident Z RGB DDR4-3600MHz 16GB (2x8GB)",
+			"gambar" : "memory/trident-z-rgb-ddr4-3600mhz-16gb-(2x8gb).png"
+		},
+		{
+			"id" : "mm04",
+			"tipe" : "ddr4",
+			"nama" : "VENGEANCE RGB PRO DDR4-3600MHz 16GB (2x8GB)",
+			"gambar" : "memory/vengeance-rgb-pro-ddr4-3600mhz-16gb-(2x8gb).png"
+		}
+	],
+
+	"storage" : [
+		{
+			"id" : "st01",
+			"jenis" : "ssd",
+			"tipe" : "sata",
+			"nama" : "860 EVO SATA 2.5 SSD 500GB",
+			"gambar" : "storage/860-evo-sata-2.5-ssd-500gb.png"
+		},
+		{
+			"id" : "st02",
+			"jenis" : "ssd",
+			"tipe" : "sata",
+			"nama" : "BarraCuda 120 SSD 500GB",
+			"gambar" : "storage/barracuda-120-ssd-500gb.png"
+		},
+		{
+			"id" : "st03",
+			"jenis" : "ssd",
+			"tipe" : "sata",
+			"nama" : "SanDisk Ultra 3D SSD 500GB",
+			"gambar" : "storage/sandisk-ultra-3d-ssd-500gb.png"
+		},
+		{
+			"id" : "st04",
+			"jenis" : "ssd",
+			"tipe" : "sata",
+			"nama" : "WD Blue SATA SSD 2.5 500 GB",
+			"gambar" : "storage/wd-blue-sata-ssd-2.5-500gb.png"
+		},
+		{
+			"id" : "st05",
+			"jenis" : "hdd",
+			"tipe" : "3.5-inch",
+			"nama" : "WD Blue PC Hard Drive 1TB",
+			"gambar" : "storage/wd-blue-pc-hard-drive-1tb.png"
+		},
+		{
+			"id" : "st06",
+			"jenis" : "hdd",
+			"tipe" : "3.5-inch",
+			"nama" : "WD_BLACK Performance Desktop Hard Drive 2TB",
+			"gambar" : "storage/wd-black-performance-desktop-drive-2tb.png"
+		}
+	],
+
+	"power-supply" : [
+		{
+			"id" : "psu01",
+			"jenis" : "cooler-master",
+			"tipe" : "mwe-gold-series",
+			"nama" : "MWE GOLD 550 - V2 FULL MODULAR",
+			"gambar" : "power-supply/mwe-gold-550-v2-full-modular.png"
+		},
+		{
+			"id" : "psu02",
+			"jenis" : "cooler-master",
+			"tipe" : "mwe-gold-series",
+			"nama" : "MWE GOLD 650 - V2 FULL MODULAR",
+			"gambar" : "power-supply/mwe-gold-650-v2-full-modular.png"
+		},
+		{
+			"id" : "psu03",
+			"jenis" : "cooler-master",
+			"tipe" : "mwe-gold-series",
+			"nama" : "MWE GOLD 750 - V2 FULL MODULAR",
+			"gambar" : "power-supply/mwe-gold-750-v2-full-modular.png"
+		},
+		{
+			"id" : "psu04",
+			"jenis" : "cooler-master",
+			"tipe" : "mwe-gold-series",
+			"nama" : "MWE GOLD 850 - V2 FULL MODULAR",
+			"gambar" : "power-supply/mwe-gold-850-v2-full-modular.png"
+		}
+	],
+
+	"case" : [
+		{
+			"id" : "case01",
+			"jenis" : "nzxt",
+			"tipe" : "h510-series",
+			"nama" : "H510 Elite",
+			"gambar" : "case/h510-elite.png"
+		},
+		{
+			"id" : "case02",
+			"jenis" : "nzxt",
+			"tipe" : "h510-series",
+			"nama" : "H510",
+			"gambar" : "case/h510.png"
+		},
+		{
+			"id" : "case03",
+			"jenis" : "nzxt",
+			"tipe" : "h510-series",
+			"nama" : "H510i",
+			"gambar" : "case/h510i.png"
+		}
+	]
+}
